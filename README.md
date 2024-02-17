@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 
 # Getting Started
 Clone the repository:
-git clone 
+
+git clone https://github.com/kumaravnish25/News-App-In-React.git
