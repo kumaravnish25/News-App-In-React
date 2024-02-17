@@ -21,3 +21,8 @@ React
 Bootstrap
 
 News API
+
+
+# Sceen Shorts
+
+![image](https://github.com/kumaravnish25/News-App-In-React/assets/132667440/f0c50261-0c8d-4456-9bae-d893ec7e680d)
