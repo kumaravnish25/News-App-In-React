@@ -12,3 +12,8 @@ Currently, two official plugins are available:
 Clone the repository:
 
 git clone https://github.com/kumaravnish25/News-App-In-React.git
+
+##Technologies Used
+React
+Bootstrap
+News API
